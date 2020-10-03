@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phone-dialing-react/static/css/main.af3f466f.chunk.css",
+    "main.js": "/phone-dialing-react/static/js/main.0e35d80d.chunk.js",
+    "main.js.map": "/phone-dialing-react/static/js/main.0e35d80d.chunk.js.map",
+    "runtime-main.js": "/phone-dialing-react/static/js/runtime-main.a6c37bd5.js",
+    "runtime-main.js.map": "/phone-dialing-react/static/js/runtime-main.a6c37bd5.js.map",
+    "static/js/2.1967396c.chunk.js": "/phone-dialing-react/static/js/2.1967396c.chunk.js",
+    "static/js/2.1967396c.chunk.js.map": "/phone-dialing-react/static/js/2.1967396c.chunk.js.map",
+    "index.html": "/phone-dialing-react/index.html",
+    "precache-manifest.7be48cca8bf7100cdf26d5a6628f19bc.js": "/phone-dialing-react/precache-manifest.7be48cca8bf7100cdf26d5a6628f19bc.js",
+    "service-worker.js": "/phone-dialing-react/service-worker.js",
+    "static/css/main.af3f466f.chunk.css.map": "/phone-dialing-react/static/css/main.af3f466f.chunk.css.map",
+    "static/js/2.1967396c.chunk.js.LICENSE.txt": "/phone-dialing-react/static/js/2.1967396c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6c37bd5.js",
+    "static/js/2.1967396c.chunk.js",
+    "static/css/main.af3f466f.chunk.css",
+    "static/js/main.0e35d80d.chunk.js"
+  ]
+}
