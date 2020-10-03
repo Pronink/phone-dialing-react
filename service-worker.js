@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/phone-dialing-react/precache-manifest.7be48cca8bf7100cdf26d5a6628f19bc.js"
+  "/phone-dialing-react/precache-manifest.94cdf29b30e8479b1f768a1d7be2f806.js"
 );
 
 self.addEventListener('message', (event) => {
